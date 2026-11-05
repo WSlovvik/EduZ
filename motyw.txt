@@ -4,3 +4,11 @@ color = "pink"
 mode = "dark"
 bgdim = "0.35"
 cardopacity = "0.55"
+
+name = "???"
+bgurl = "https://scontent-waw2-1.xx.fbcdn.net/v/t39.30808-6/272464038_460413358949099_4974478340773577017_n.jpg?stp=dst-jpg_tt6&cstp=mx480x483&ctp=s480x483&_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=7mk-1EQfaugQ7kNvwHyvBiC&_nc_oc=AdoT5PfJ-66DYGsnY2fIXhQXVQ4nrw-NsYCa1W6Kqyc4WRQUMxruMnWgABGrwHT8OLQ&_nc_zt=23&_nc_ht=scontent-waw2-1.xx&_nc_gid=CVDKNiTYu4WmkJSs8OC3SA&_nc_ss=7b2a8&oh=00_AQQK8r6WEfi_lv6B8-XMEbHnGZJ0Yl4nAeH0JBckjm5PGQ&oe=6AF28D00"
+color = "yellow"
+mode = "dark"
+bgdim = "0.35"
+cardopacity = "0.55"
+
