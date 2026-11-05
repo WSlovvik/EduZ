@@ -5,10 +5,3 @@ mode = "dark"
 bgdim = "0.35"
 cardopacity = "0.55"
 
-name = "G"
-bgurl = "https://static.wikia.nocookie.net/villains/images/9/9c/Monster_Verity.png/revision/latest/scale-to-width/360?cb=20260712213239"
-color = "yellow"
-mode = "dark"
-bgdim = "0.35"
-cardopacity = "0.55"
-
