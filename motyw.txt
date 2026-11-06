@@ -1,5 +1,5 @@
 name = "???"
-bgurl = "https://i.ebayimg.com/images/g/iVkAAOSwrgNksb1G/s-l1200.jpg"
+bgurl = "https://i.ibb.co/hFkjwxVN/IMG-4825.jpg"
 color = "pink"
 mode = "dark"
 bgdim = "0.35"
